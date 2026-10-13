@@ -91,3 +91,7 @@ If you are using the MicroORM Dapper, you can use the [Dapper](./DotNet) sample 
 ## Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general). Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## Workshops
+
+The [FabCon and SQLCon Europe 2026 workshop](./Workshops/FabCon-SQLCon-2026/) provides an end-to-end learning journey from vector search and DiskANN to retrieval-augmented generation (RAG), agents, Model Context Protocol (MCP), and secured AI applications.
